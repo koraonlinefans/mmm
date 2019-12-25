@@ -1,0 +1,325 @@
+@media screen and (max-width: 1140px) {
+
+  .hmbd_container, .bd_container {
+    width: 1000px;
+  }
+  .top_main_menu {
+    display: none;
+  }
+  #rspmnu {
+    display: block;
+  }
+  .g_t_inf_sch {
+    width: 194px;
+  }
+  .right_side {
+    width: 270px;
+  }
+    .lgspg6 {
+    width: 25%;
+  }
+  .contact_rt {
+    width: 350px;
+  }
+  .contact_lf {
+    width: 600px;
+  }
+
+}
+
+@media screen and (max-width: 1040px) {
+
+  .hmbd_container, .bd_container {
+    width: 700px;
+  }
+
+  .ctnr50 {
+    height: 180px;
+  }
+  .ctnr5012 {
+    height: 90px;
+  }
+  .ctnr5012, .ctnr5013, .ctnr5011 {
+    font-size: 16px;
+  }
+  .ctnr501215 img, .ctnr501211 img {
+    height: 80px;
+    width: 80px;
+  }
+
+  .prgrssbar {
+    font-size: 16px;
+    line-height: 26px;
+  }
+  .g_t_inf_sch {
+    width: 169px;
+    font-size: 13px;
+  }
+  .g_t_inf_schend {
+    width: 50%;
+    margin: 5px 0px;
+  }
+  .contact_rt {
+    width: 700px;
+  }
+  .contact_lf {
+    width: 700px;
+  }
+  .right_side {
+    margin-top: 20px;
+    width: 100%;
+  }
+  .bg_left_side {
+    width: 100%;
+  }
+  .menu {
+    font-size: 18px;
+  }
+  .logo {
+    margin-right: 10px;
+    width: 160px;
+    height: 60px;
+  }
+
+  .lgspg6 {
+    width: 50%;
+  }
+}
+
+
+@media screen and (max-width: 720px) {
+    .footer-li  {
+        float: none;
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    #wstrights {
+        margin-top: 40px;
+    }
+    .padb, #wstrights a img {
+        float: none;
+        margin-left: 0px;
+    }
+
+  .hmbd_container {
+    width: 500px;
+  }
+
+  .bd_container {
+    width: 100%;
+  }
+  .text-center {
+    width: 100%;
+  }
+  .er_vt1  {
+    width: 100%;
+  }
+  .er_vt1 button {
+    min-width: 33.3%;
+    font-size: 16px;
+  }
+  .game_tbl_info4 {
+    font-size: 16px;
+  }
+  .prgrssbar {
+    font-size: 13px;
+    line-height: 30px;
+  }
+  .g_t_inf_sch {
+    width: 160px;
+    font-size: 12px;
+  }
+  .contact_rt {
+    width: 500px;
+  }
+  .contact_lf {
+    width: 500px;
+  }
+  .tms_vs2_inf {
+    width: 220px;
+  }
+  .tms_vs2_inf_dt1 {
+    width: 50%;
+  }
+  .hm_gm_tb_inf1_lnk {
+    margin-top: 57px;
+    margin-right: 330px;
+  }
+  .tms_vs2_inf {
+    height: 146px;
+    overflow: hidden;
+    width: 250px;
+  }
+  .tms_vs2 {
+    height: 150px;
+    padding-top: 38px;
+    -webkit-box-sizing: border-box; 
+    -moz-box-sizing: border-box;    
+    box-sizing: border-box; 
+  }
+  .tms_vs2_inf_dt1 {
+    border-bottom: 1px solid #888;
+    height: 75px;
+    width: 50%;
+  }
+  .menu {
+    font-size: 14px;
+  }
+  .logo {
+    margin-right: 10px;
+    width: 100px;
+    height: 40px;
+  }
+  .page_header {
+   /* height: 70px;*/
+  }
+
+  .hm_gm_nvb1dv {
+    font-size: 14px;
+  }
+
+
+
+
+
+
+  .tms_vs2_show {
+    width: 100%;
+  }
+  .tms_vs2_inf_dt1show {
+    width: 33.33%;
+  }
+  .tms_vs2_infshow {
+    width: 100%;
+    height: 72px;
+  }
+  .tms_vs2_show {
+    height: 72px;
+    padding: 7px;
+  }
+  .hm_gm_tb_inf1_lnkshow {
+    margin-top: 55px;
+    margin-right: 198px;
+  }
+
+}
+
+@media screen and (max-width: 520px) {
+
+  .hmbd_container {
+    width: 400px;
+  }
+  .bd_container {
+    width: 100%;
+  }
+  .rfstss1 {
+    width: 50%;
+  }
+  .er_vt1 button {
+    font-size: 12px;
+  }
+.g_t_inf_schend {
+    width: 100%;
+  }
+  .ctnr50 {
+    height: 160px;
+  }
+  .ctnr5012 {
+    height: 80px;
+  }
+  .ctnr5012, .ctnr5013, .ctnr5011 {
+    font-size: 14px;
+  }
+  .ctnr501215 img, .ctnr501211 img {
+    height: 60px;
+    width: 60px;
+  }
+
+  .contact_rt {
+    width: 400px;
+  }
+  .contact_lf {
+    width: 400px;
+  }
+  .g_t_inf_sch {
+    width: 194px;
+    font-size: 13px;
+  }
+  .hm_gm_tb_inf1_lnk {
+    margin-top: 118px;
+    margin-right: 155px;
+  }
+  .tms_vs2_inf {
+    height: 70px;
+    overflow: hidden;
+    width: 100%;
+  }
+  .tms_vs2 {
+    height: 100px;
+    padding-top: 18px;
+    width: 100%;
+  }
+  .tms_vs2_inf_dt1 {
+    border-bottom: none;
+    width: 25%;
+  }
+  .menu {
+    font-size: 14px;
+  }
+  .logo {
+    margin-right: 10px;
+    width: 100px;
+    height: 40px;
+  }
+  .page_header {
+        padding-top: 40px;
+  /*  height: 70px;*/
+  }
+
+  /*.top_main_menu {
+    display: none;
+  }
+  #rspmnu {
+    display: block;
+  }*/
+  .hm_gm_nvb1dv {
+    font-size: 14px;
+  }
+  
+
+  .tms_vs2_inf_dt1show {
+    width: 33.33%;
+  }
+}
+
+@media screen and (max-width: 420px) {
+
+  .hmbd_container, .bd_container {
+    width: 400px;
+  }
+
+
+  .hm_gm_tb_inf1_lnk {
+    margin-top: 118px;
+    margin-right: 155px;
+  }
+  .tms_vs2_inf {
+    height: 70px;
+    overflow: hidden;
+    width: 100%;
+  }
+
+  .tms_vs2_inf_dt1 {
+    border-bottom: none;
+    width: 25%;
+  }
+
+  .page_header {
+    width: 420px;
+
+  }
+  .tms_vs2_inf_dt1show {
+    width: 33.33%;
+  }
+
+}
